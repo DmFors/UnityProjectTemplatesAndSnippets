@@ -25,7 +25,7 @@
     <Snippet Title="Unity Debug Log Warning" Description="Code snippet for a Unity console warning log message" Shortcut="logwarning" Path="Snippets\Unity\debug-log-warning.snippet" />
     <Snippet Title="Unity Require Component" Description="Code snippet for [RequireComponent]" Shortcut="reqcomp" Path="Snippets\Unity\require-component.snippet" />
     <Snippet Title="Unity Property and static field for singleton pattern in MonoBehaviours" Description="Code snippet for a property and static field for singleton pattern" Shortcut="usingleton" Path="Snippets\Unity\singleton-behaviour.snippet" />
-    <Snippet Title="Unity Property with a backing Unity serialized field" Description="Code snippet for a property with a backing Unity serialized field" Shortcut="sprop" Path="Snippets\Unity\serialized-field-property.snippet" />
+    <Snippet Title="Unity Property with a backing Unity serialized field" Description="Code snippet for a property with a backing Unity serialized field" Shortcut="sfprop" Path="Snippets\Unity\serialized-field-property.snippet" />
     <Snippet Title="Unity Serialized Field" Description="Code snippet for a private field with [SerializedField]" Shortcut="sfield" Path="Snippets\Unity\serialized-field.snippet" />
     <Snippet Title="Unity Coroutine" Description="Code snippet for coroutine method" Shortcut="cor" Path="Snippets\Unity\coroutine.snippet" />
   </Snippets>

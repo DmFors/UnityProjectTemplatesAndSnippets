@@ -82,51 +82,51 @@
     <None Include="Key.snk" />
     <None Include="packages.config" />
     <None Include="Properties\template-builder.props" />
-    <Content Include="Snippets\Unity\monobehaviour.snippet">
+    <Content Include="Snippets\CSharp\Unity\monobehaviour.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Unity\unity-test.snippet">
+    <Content Include="Snippets\CSharp\Unity\unity-test.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Unity\menu-item.snippet">
+    <Content Include="Snippets\CSharp\Unity\menu-item.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Unity\create-asset-menu.snippet">
+    <Content Include="Snippets\CSharp\Unity\create-asset-menu.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Unity\debug-log-exception.snippet">
+    <Content Include="Snippets\CSharp\Unity\debug-log-exception.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Unity\debug-log-error.snippet">
+    <Content Include="Snippets\CSharp\Unity\debug-log-error.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Unity\debug-log-info.snippet">
+    <Content Include="Snippets\CSharp\Unity\debug-log-info.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Unity\debug-log-warning.snippet">
+    <Content Include="Snippets\CSharp\Unity\debug-log-warning.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Unity\require-component.snippet">
+    <Content Include="Snippets\CSharp\Unity\require-component.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Unity\singleton-behaviour.snippet">
+    <Content Include="Snippets\CSharp\Unity\singleton-behaviour.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Unity\serialized-field-property.snippet">
+    <Content Include="Snippets\CSharp\Unity\serialized-field-property.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Snippets\Unity\serialized-field.snippet">
+    <Content Include="Snippets\CSharp\Unity\serialized-field.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
@@ -383,7 +383,7 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>Strings.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Content Include="Snippets\Unity\coroutine.snippet">
+    <Content Include="Snippets\CSharp\Unity\coroutine.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
