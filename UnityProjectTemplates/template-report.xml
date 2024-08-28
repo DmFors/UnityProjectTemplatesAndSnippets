@@ -15,18 +15,19 @@
   </ItemTemplates>
   <ProjectTemplates />
   <Snippets>
-    <Snippet Title="Unity MonoBehaviour" Description="Code snippet for a MonoBehaviour class" Shortcut="monobehaviour" Path="Snippets\Unity\monobehaviour.snippet" />
-    <Snippet Title="UnityTest method" Description="Code snippet for UnityTest method" Shortcut="utest" Path="Snippets\Unity\unity-test.snippet" />
-    <Snippet Title="Unity MenuItem" Description="Code snippet for Unity MenuItem and method" Shortcut="menuitem" Path="Snippets\Unity\menu-item.snippet" />
-    <Snippet Title="Unity CreateAssetMenu attribute" Description="Code snippet for Unity CreateAssetMenu attribute" Shortcut="assetmenu" Path="Snippets\Unity\create-asset-menu.snippet" />
-    <Snippet Title="Unity Debug Log Exception" Description="Code snippet for a Unity console exception log message" Shortcut="logexception" Path="Snippets\Unity\debug-log-exception.snippet" />
-    <Snippet Title="Unity Debug Log Error" Description="Code snippet for a Unity console error log message" Shortcut="logerror" Path="Snippets\Unity\debug-log-error.snippet" />
-    <Snippet Title="Unity Debug Log Info" Description="Code snippet for a Unity console info log message" Shortcut="log" Path="Snippets\Unity\debug-log-info.snippet" />
-    <Snippet Title="Unity Debug Log Warning" Description="Code snippet for a Unity console warning log message" Shortcut="logwarning" Path="Snippets\Unity\debug-log-warning.snippet" />
-    <Snippet Title="Unity Require Component" Description="Code snippet for [RequireComponent]" Shortcut="reqcomp" Path="Snippets\Unity\require-component.snippet" />
-    <Snippet Title="Unity Property and static field for singleton pattern in MonoBehaviours" Description="Code snippet for a property and static field for singleton pattern" Shortcut="usingleton" Path="Snippets\Unity\singleton-behaviour.snippet" />
-    <Snippet Title="Unity Property with a backing Unity serialized field" Description="Code snippet for a property with a backing Unity serialized field" Shortcut="sfprop" Path="Snippets\Unity\serialized-field-property.snippet" />
-    <Snippet Title="Unity Serialized Field" Description="Code snippet for a private field with [SerializedField]" Shortcut="sfield" Path="Snippets\Unity\serialized-field.snippet" />
-    <Snippet Title="Unity Coroutine" Description="Code snippet for coroutine method" Shortcut="cor" Path="Snippets\Unity\coroutine.snippet" />
+    <Snippet Title="Unity MonoBehaviour" Description="Code snippet for a MonoBehaviour class" Shortcut="monobehaviour" Path="Snippets\CSharp\Unity\monobehaviour.snippet" />
+    <Snippet Title="UnityTest method" Description="Code snippet for UnityTest method" Shortcut="utest" Path="Snippets\CSharp\Unity\unity-test.snippet" />
+    <Snippet Title="Unity MenuItem" Description="Code snippet for Unity MenuItem and method" Shortcut="menuitem" Path="Snippets\CSharp\Unity\menu-item.snippet" />
+    <Snippet Title="Unity CreateAssetMenu attribute" Description="Code snippet for Unity CreateAssetMenu attribute" Shortcut="assetmenu" Path="Snippets\CSharp\Unity\create-asset-menu.snippet" />
+    <Snippet Title="Unity Debug Log Exception" Description="Code snippet for a Unity console exception log message" Shortcut="logexception" Path="Snippets\CSharp\Unity\debug-log-exception.snippet" />
+    <Snippet Title="Unity Debug Log Error" Description="Code snippet for a Unity console error log message" Shortcut="logerror" Path="Snippets\CSharp\Unity\debug-log-error.snippet" />
+    <Snippet Title="Unity Debug Log Info" Description="Code snippet for a Unity console info log message" Shortcut="log" Path="Snippets\CSharp\Unity\debug-log-info.snippet" />
+    <Snippet Title="Unity Debug Log Warning" Description="Code snippet for a Unity console warning log message" Shortcut="logwarning" Path="Snippets\CSharp\Unity\debug-log-warning.snippet" />
+    <Snippet Title="Unity Require Component" Description="Code snippet for [RequireComponent]" Shortcut="reqcomp" Path="Snippets\CSharp\Unity\require-component.snippet" />
+    <Snippet Title="Unity Property and static field for singleton pattern in MonoBehaviours" Description="Code snippet for a property and static field for singleton pattern" Shortcut="usingleton" Path="Snippets\CSharp\Unity\singleton-behaviour.snippet" />
+    <Snippet Title="Unity Property with a backing Unity serialized field" Description="Code snippet for a property with a backing Unity serialized field" Shortcut="sfprop" Path="Snippets\CSharp\Unity\serialized-field-property.snippet" />
+    <Snippet Title="Unity Serialized Field" Description="Code snippet for a private field with [SerializedField]" Shortcut="sfield" Path="Snippets\CSharp\Unity\serialized-field.snippet" />
+    <Snippet Title="Unity Serialized Property" Description="Code snippet for a Unity serialized property without field" Shortcut="sprop" Path="Snippets\CSharp\Unity\serialized-property.snippet" />
+    <Snippet Title="Unity Coroutine" Description="Code snippet for coroutine method" Shortcut="cor" Path="Snippets\CSharp\Unity\coroutine.snippet" />
   </Snippets>
 </TemplateReport>
